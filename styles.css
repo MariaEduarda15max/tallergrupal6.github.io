@@ -1,14 +1,17 @@
 body {
     background-color: rgb(255, 255, 165);
-        font-family: "Gupter", serif;
-        font-weight: 400;
-        font-style: normal;
+    font-family: "Gupter", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
 }
 
 .image{
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    display:block;
+    margin:auto;
 }
 
 .link-button {
