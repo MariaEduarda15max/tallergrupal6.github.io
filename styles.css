@@ -3,9 +3,10 @@ body {
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid violet;
     border-radius: 10px;
     height: 400px;
+    border-style: initial;
 }
 
 .link-button {
